@@ -1,8 +1,8 @@
-/* Davídkovy hry – šablona service workeru (společná). Hra při sestavení nahradí 1431bc35eb, kostky-, kostky-sw, ["./", "index.html", "manifest.webmanifest", "ikona-180.png", "ikona-192.png", "ikona-512.png"].
+/* Davídkovy hry – šablona service workeru (společná). Hra při sestavení nahradí 259011b969, kostky-, kostky-sw, ["./", "index.html", "manifest.webmanifest", "ikona-180.png", "ikona-192.png", "ikona-512.png"].
    Uloží hru do iPadu, aby jako aplikace na ploše fungovala i bez internetu.
    Stahuje soubor po souboru a hlásí průběh stránce (BroadcastChannel 'hratky-sw'); nová verze se použije,
    až když je stažená celá. Po nahrání nové verze se hra při dalším spuštění s internetem sama aktualizuje. */
-const VERZE = '1431bc35eb';
+const VERZE = '259011b969';
 const PREFIX = 'kostky-';            // např. 'hratky-'
 const CACHE = PREFIX + VERZE;
 const SOUBORY = ["./", "index.html", "manifest.webmanifest", "ikona-180.png", "ikona-192.png", "ikona-512.png"];          // seznam souborů k uložení

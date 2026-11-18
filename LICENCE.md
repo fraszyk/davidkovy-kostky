@@ -37,6 +37,16 @@ Převzato beze změny z Davídkova městečka (~/Documents/Chytre-hratky/mesteck
 | husa | Wikimedia Commons „Geese Honking (loud).ogg“ – https://commons.wikimedia.org/wiki/File:Geese_Honking_(loud).ogg | U.S. Fish and Wildlife Service | Public domain (PD-USGov-FWS) |
 | vlk | Wikimedia Commons „Wolf howls.ogg“ – https://commons.wikimedia.org/wiki/File:Wolf_howls.ogg | U.S. Fish and Wildlife Service | Public domain (PD-USGov-FWS) |
 
+### Vozidla (od 18. 11. 2026)
+Převzato beze změny z Davídkovy dráhy (~/Documents/Davidkova-draha/zvuky, licence ověřena 9. 11. 2026).
+
+| id | použití ve hře | zdroj | autor | licence |
+|---|---|---|---|---|
+| houkacka_kratky | auto (nasednutí, troubení) | BigSoundBank #0258 „Recent Car Horn #2“ – https://bigsoundbank.com/recent-car-horn-2-s0258.html | DenisChardonnet | CC0 1.0 |
+| vlak_kratky | vláček (nasednutí, houknutí) | BigSoundBank #3019 „Hiss of steam train #7“ – https://bigsoundbank.com/hiss-of-steam-train-7-s3019.html | Joseph SARDIN | CC0 1.0 |
+
+Syntetizované (bez nahrávky): déšť (filtrovaný šum), motor letadla a raketa (šum), praskání vajíčka.
+
 **Poděkování (CC BY)** – zobrazeno i v panelu Pro rodiče:
 - Prasátko: „Pig grunt“ – erdie, https://freesound.org/people/Erdie/sounds/44274/ (přes Wikimedia Commons), CC BY 3.0 https://creativecommons.org/licenses/by/3.0/, upraveno.
 - Opička: „Pant-hoot call made by a male chimpanzee“ – Pawel Fedurek et al., https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5674848/ (přes Wikimedia Commons), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/, upraveno.
